@@ -1,1 +1,1 @@
-# facefusion-2.0.6
+# facefusion-2.6.0
